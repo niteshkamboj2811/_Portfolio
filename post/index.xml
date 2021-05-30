@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nitesh Kamboj</title>
+    <link>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/</link>
+    <description>Recent content in Projects on Nitesh Kamboj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spam email classifier using Naive Bayes algorithm </title>
+      <link>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-1/</link>
+      <pubDate>Mon, 08 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-1/</guid>
+      <description>Spam detection is one of the major applications of Machine Learning in the interwebs today. Pretty much all of the major email service providers have spam detection systems built in and automatically classify such mail as &amp;lsquo;Junk Mail&amp;rsquo;.
+  In this mission I will be using the Naive Bayes algorithm to create a model that can classify SMS messages as spam or not spam, based on the training I give to the model.</description>
+    </item>
+    
+    <item>
+      <title>TV, halftime shows, and the Super Bowl</title>
+      <link>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-2/</link>
+      <pubDate>Sun, 07 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-2/</guid>
+      <description>Whether or not you like football, the Super Bowl is a spectacle. There&amp;rsquo;s a little something for everyone at your Super Bowl party. Drama in the form of blowouts, comebacks, and controversy for the sports fan. There are the ridiculously expensive ads, some hilarious, others gut-wrenching, thought-provoking, and weird. The half-time shows with the biggest musicians in the world, sometimes riding giant mechanical tigers or leaping from the roof of the stadium.</description>
+    </item>
+    
+    <item>
+      <title>Titantic Survival Prediction with Decision Trees</title>
+      <link>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-3/</link>
+      <pubDate>Fri, 05 Feb 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-3/</guid>
+      <description>Step by step explanation of how to implement the Decision Trees from scratch including, but not limited to, &amp;ldquo;One-Hot encoding&amp;rdquo; and identifying methods of improving the model by performing Hyperperemeter tuning.
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>EDA of the COVID-19</title>
+      <link>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-4/</link>
+      <pubDate>Mon, 01 Feb 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-4/</guid>
+      <description>Analyzing the global evolution of COVD-19 and it&amp;rsquo;s effects on countries
+  Link to Google Colab Notebook</description>
+    </item>
+    
+    <item>
+      <title>Google Play Sentiment Analysis</title>
+      <link>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-5/</link>
+      <pubDate>Sun, 31 Jan 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-5/</guid>
+      <description>Analysis of installs, ratings, and prices to devise growth strategies.
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Google Stock Price Prediction using LSTM</title>
+      <link>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-6/</link>
+      <pubDate>Wed, 31 Jan 2018 11:14:48 -0400</pubDate>
+      
+      <guid>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-6/</guid>
+      <description>LSTM networks are special kind of RNN which are explicitly designed to avoid the long term dependency problem. Remembering information for long time is practically their default behavior.
+  So in this project, the stock prices of 2018 are predicted using LSTM network based on the stock price data between 2011-2017.
+  Data can be downloaded from https://finance.yahoo.com/quote/goog/history?ltr=1
+    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>EDA of 67 years of F1 racing</title>
+      <link>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-7/</link>
+      <pubDate>Tue, 30 Jan 2018 11:14:48 -0400</pubDate>
+      
+      <guid>https://niteshkamboj2811.github.io/Nitesh_Portfolio_2/post/chapter-7/</guid>
+      <description>This paper is the research work done on Formula 1 racing which is a very famous and expensive sport. 5 major insights have been presented in this paper using the data for 67 year which is collection of 13 data files each containing different information of Formula 1.
+The purpose of this paper is to mainly show the hidden insights and very crucial and meaningful information about drivers, manufacturers, and racing circuits.</description>
+    </item>
+    
+  </channel>
+</rss>
